@@ -14,6 +14,8 @@ In paricular we used for the 4th question a library : Folium, the output of the 
 
 During the homework we estract a lot of folders that have been placed in the reposistory, you can find the folders that contain the csv files and the dictionaries.
 
+some libraries used: numpy, pandas, beautifulsoup4, os, shutil, nklt, tqdm, json, sklearn
+
 # Group members:
 Giacomo Bellini,
  Elisa Pierini,

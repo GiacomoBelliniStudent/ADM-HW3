@@ -15,6 +15,6 @@ In paricular we used for the 4th question a library : Folium, the output of the 
 During the homework we estract a lot of folders that have been placed in the reposistory, you can find the folders that contain the csv files and the dictionaries.
 
 # Group members:
-Giacomo Bellini
-Elisa Pierini
-Michela Lombardi
+Giacomo Bellini,
+ Elisa Pierini,
+ Michela Lombardi.

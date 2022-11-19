@@ -7,7 +7,7 @@ ADM homework 3 repository for group #21
 This is our third homework repository!
 
 A better visualization of our notebook can be found here:
-https://github.com/GiacomoBelliniStudent/ADM-HW3/blob/main/main.ipynb
+https://github.com/GiacomoBelliniStudent/ADM-HW3
 
 We used some libraries and every module has been documented.
 In paricular we used for the 4th question a library : Folium, the output of the map has been upoloaded as an image in the reposistory.
